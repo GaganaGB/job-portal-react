@@ -34,3 +34,4 @@ Use the **Manage Jobs** form to add a job. Use **Edit** or **Delete** on a job c
 - Frontend: deploy the project root to Vercel. Add `VITE_API_URL` with the Render service URL (no trailing slash), then redeploy.
 - Do not commit actual `.env` files or database credentials. `.env.example` files contain placeholders only.
 Feature: Job registration
+Feature: Job login
