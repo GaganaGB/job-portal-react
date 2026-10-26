@@ -36,3 +36,7 @@ Use the **Manage Jobs** form to add a job. Use **Edit** or **Delete** on a job c
 Feature: Job registration
 Feature: Job login
 Feature: Job management
+
+Week 8C - GitHub Collaboration
+Feature branch: feature-course-enrollment
+Project: Job Portal
